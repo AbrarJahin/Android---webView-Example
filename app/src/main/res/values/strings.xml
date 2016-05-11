@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Hello 8920</string>
+    <string name="app_name" translatable="false">Hello 8920</string>
+    <string name="sound_cloud_url">https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F8111706%3Fsecret_token%3Ds-3aK27&amp;color=e2ef3a&amp;auto_play=false&amp;show_artwork=false</string>
+    <string name="test_url">http://stackoverflow.com/</string>
 </resources>
